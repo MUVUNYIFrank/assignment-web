@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[30.381991044151391,-2.0318992519488575]},"properties":{"FID":0,"objectid":11,"layer":"Sport_Sites","type":"Football","name":"football pitch","source":"OSM","capture":"2019","created_us":" ","created_da":" ","last_edite":" ","last_edi_1":" "}},{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[30.424793764320839,-1.9491743311304504]},"properties":{"FID":1,"objectid":14,"layer":"Sport_Sites","type":"stadium","name":" ","source":"OSM","capture":"2019","created_us":" ","created_da":" ","last_edite":" ","last_edi_1":" "}}]
+}
