@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[30.144384459000037,-2.2066956569999547]},"properties":{"OBJECTID":4,"NEW_PROVIN":"EST","DISTRICT_N":"BUGESERA","NEW_SECTOR":"MAYANGE","NOMFORMATI":"Mayange","UNIT_TYPE":2,"PBFPHASE":0,"Y":-2.206783,"X":30.14458,"TYPE":"Health Centre"}}
+]}
